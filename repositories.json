@@ -1,5 +1,9 @@
 [
   {
+    "id": "github-plugins",
+    "url": "https://raw.githubusercontent.com/generiekzaakafhandelcomponent/Plugins/refs/heads/poc/extensions/repository/"
+  },
+  {
     "id": "weather-extension",
     "url": "https://raw.githubusercontent.com/valtimo-platform/weather-extension/refs/heads/main/repository/"
   }
